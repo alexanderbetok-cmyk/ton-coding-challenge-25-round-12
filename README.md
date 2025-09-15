@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = alexanderbetok
+2. 你的主网 TON 钱包地址 = UQDQz_6owYVzX_EuSZaK3aVocYh-6eWiGwFT_FoKnSlm-bFb
 
 
 ## 任务：构思 NFT 版权方案
@@ -28,8 +28,11 @@ https://t.me/toneachat
 ### 你的答案：
 
 1. 描述你的方案
-2. 你的方案有什么优势？
-3. 你的方案有什么取舍和不足？
+   NFT 项目方 保留一些 NFT 不要销售，或者按时间线下释放。
+3. 你的方案有什么优势？
+   项目方锁仓模式，而不是版权模式。
+5. 你的方案有什么取舍和不足？
+   放弃收二次销售版权税，通过增值盈利。
 
 
 
